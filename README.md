@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **PHP,JS,**
+- 🌱 I’m currently learning **PHP, JS,**
 
 - 🤝 I’m looking for help with **Professional Web Designer & Developer | WordPress Business |**
 
