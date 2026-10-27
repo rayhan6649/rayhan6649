@@ -8,13 +8,15 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **PHP, JS,**
+- 🌱 I’m currently learning **PHP,JS,**
 
 - 🤝 I’m looking for help with **Professional Web Designer & Developer | WordPress Business |**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rayhan649](https://www.linkedin.com/in/rayhan649)
 
 - 📫 How to reach me **rayhanmia3051997@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Tj20Q9j4-JTGpRsI0uXFu357iRbSS848/view?usp=sharing](https://drive.google.com/file/d/1Tj20Q9j4-JTGpRsI0uXFu357iRbSS848/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
